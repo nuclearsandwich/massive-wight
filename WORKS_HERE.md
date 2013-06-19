@@ -1,1 +1,1 @@
-When I was a young http://www.w3.org/2011/http-statusCodes#
+The following link is fine http://www.w3.org/2011/http-statusCodes#
