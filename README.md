@@ -1,1 +1,1 @@
-When I was a young http://github.com/nuclearsandwich/barometer-stealing-cow
+When I was a young http://www.w3.org/2011/http-statusCodes#
